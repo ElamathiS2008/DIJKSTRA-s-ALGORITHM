@@ -157,6 +157,4 @@ ELAMATHI S
 B.Tech AI&DS
 Chennai Institute of Technology
 
-B.Tech Information Technology
 
-Chennai Institute of Technology
